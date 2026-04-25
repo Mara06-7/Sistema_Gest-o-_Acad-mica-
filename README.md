@@ -1,4 +1,4 @@
-# Sistema_Gest-o-_Acad-mica-
+# Sistema_Gestao_Acadamica
 Projeto de Gestão de Notas em C++
 
 Neste repositório, apresento a evolução de um sistema de gestão académica.
